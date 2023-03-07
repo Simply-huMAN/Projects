@@ -1,5 +1,6 @@
 # Projects
 > A sample projects section
+> #### [Preview here](https://play.tailwindcss.com/MCInjkJY8R?layout=preview)
 > #### Code [live here](https://play.tailwindcss.com/MCInjkJY8R)
 #
 > #### Laptop View
