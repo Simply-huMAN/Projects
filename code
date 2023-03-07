@@ -17,7 +17,7 @@
       <h1 class="my-4 mx-4 text-3xl font-bold">Food Ninja</h1>
       <p class="mx-4 opacity-40">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
     </div>
-    <img class="m-2 w-80 md:w-96 md:-translate-x-1/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
+    <img class="m-2 w-80 md:w-[30rem] md:-translate-x-1/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
     <div>
       <h1 class="my-4 mx-4 hidden text-3xl font-bold md:block">Food Ninja</h1>
       <p class="mx-4 hidden opacity-40 md:block">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
@@ -25,10 +25,10 @@
         <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">React</li>
         <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">Tailwind</li>
         <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">CSS</li>
-        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">HTML</li>
+        <!-- <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">HTML</li>
         <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">Javascript</li>
         <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">MySQL</li>
-        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">MongoDB</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">MongoDB</li> -->
       </ul>
       <div class="m-4 flex flex-wrap">
         <button class="cursor-pointer rounded-md border-white bg-black p-3 font-semibold transition-all hover:bg-white hover:text-black hover:transition-all">
@@ -50,7 +50,7 @@
       <p class="mx-4 opacity-40">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
     </div>
     <img class="md:hidden m-2 w-80 md:w-96 md:-translate-x-1/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
-    <div>
+    <div class="">
       <h1 class="my-4 mx-4 hidden text-3xl font-bold md:block">Food Ninja</h1>
       <p class="mx-4 hidden opacity-40 md:block">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
       <ul class="m-4 flex flex-wrap">
@@ -69,7 +69,39 @@
         </div>
       </div>
     </div>
-    <img class="hidden md:block m-2 w-80 md:w-96 md:translate-x-2/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
+    <img class="hidden md:block m-2 w-80 md:w-[32rem] md:translate-x-1/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
+  </div>
+
+  <!-- Food Ninja -->
+  <div class="m-4 box-border flex max-w-screen-lg grid-cols-2 flex-col items-center overflow-hidden rounded-md bg-zinc-800 p-4 transition-all hover:outline hover:outline-orange-400 md:grid">
+    <div class="md:hidden">
+      <h1 class="my-4 mx-4 text-3xl font-bold">Food Ninja</h1>
+      <p class="mx-4 opacity-40">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
+    </div>
+    <img class="m-2 w-80 md:w-[30rem] md:-translate-x-1/4" src="https://static.vecteezy.com/system/resources/previews/012/807/215/original/silhouette-of-the-laptop-for-sign-icon-symbol-apps-website-pictogram-logo-art-illustration-or-graphic-design-element-format-png.png" alt="food ninja mockup" />
+    <div>
+      <h1 class="my-4 mx-4 hidden text-3xl font-bold md:block">Food Ninja</h1>
+      <p class="mx-4 hidden opacity-40 md:block">Food Ninja is a typical restaurent website that caters the basic needs of a restaurent. It provides multiple cuisines at affordable rates, door-delivery and option for bulk ordering and donating others.</p>
+      <ul class="m-4 flex flex-wrap">
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">React</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">Tailwind</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">CSS</li>
+        <!-- <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">HTML</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">Javascript</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">MySQL</li>
+        <li class="mr-8 cursor-default font-semibold transition-colors hover:text-orange-400">MongoDB</li> -->
+      </ul>
+      <div class="m-4 flex flex-wrap">
+        <button class="cursor-pointer rounded-md border-white bg-black p-3 font-semibold transition-all hover:bg-white hover:text-black hover:transition-all">
+          <a href="https://simply-human.github.io/ninjafood/">View Website</a>
+        </button>
+        <div>
+          <a href="https://github.com/Simply-huMAN/ninjafood/tree/master" title="github repo link">
+            <img class="ml-4 w-12" src="https://img.icons8.com/3d-fluency/256/github.png" alt="github" />
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
 
 </div>
